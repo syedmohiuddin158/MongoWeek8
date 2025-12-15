@@ -33,7 +33,7 @@ Make sure the following are installed on your system:
 
 1. Clone the repsitory:
 
-git clone https://github.com/syedmohiuddin158/MongoWeek7.git
+git clone https://github.com/syedmohiuddin158/MongoWeek8.git
 
 2. Navigate to the project folder:
 
@@ -88,6 +88,6 @@ All CRUD operations are implemented in a single file (index.js) as required.
 ##  GitHub Repository
 
 All the files related to this lab are available at:
-https://github.com/yourusername/MongoWeek8
+https://github.com/syedmohiuddin158/MongoWeek8
 
 
